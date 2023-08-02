@@ -1,5 +1,3 @@
-
-https://github.com/sharonnkanng/Asteroids/assets/94573832/ae519c09-9d92-434f-830d-5f36fba6d343
 # Asteroids
 Java Asteroids Atari Game
 
